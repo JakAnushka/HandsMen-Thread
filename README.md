@@ -19,12 +19,11 @@ HandsMen Threads aimed to digitize and enhance its customer relationship process
 
 ## ⚙️ Features
 
-- Custom Salesforce Objects: `Tailoring_Request__c`, `Loyalty_Status__c`, `Bulk_Order__c`
+- Custom Salesforce Objects: 'HandsMen Customer', 'HandsMen Order', 'HandsMen Product', 'Inventory', 'Marketing Campaign'
 - Record-Triggered Flows for:
   - Automated Order Confirmations
   - Loyalty Status Updates
   - Inventory Stock Alerts
-  - Scheduled Bulk Order Processing
 - Approval Processes for high-value orders
 - Validation Rules to maintain data integrity
 - Secure with MFA, field-level security, and break-glass admin strategy
@@ -44,7 +43,6 @@ HandsMen Threads aimed to digitize and enhance its customer relationship process
 - **Flows & Process Builder**
 - **Validation Rules & Approvals**
 - **Scheduled Batch Apex**
-- **Git (for metadata tracking)**
 
 ---
 
